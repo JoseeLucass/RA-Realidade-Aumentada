@@ -1,5 +1,9 @@
 # RA-Realidade-Amentada
 Projeto de Realidade Aumentada em Pontos Turísticos e Históricos com A-Frame é uma iniciativa inovadora que utiliza a tecnologia de realidade aumentada para enriquecer a experiência dos visitantes.
+
+## Marcadores 
+Link de Download: https://mega.nz/folder/8TtlmR5Y#EIh4p5lbGxSa5_mnfsDIdA
+
 ## Layout web
 
 ## Realidade aumentada: 
@@ -14,5 +18,5 @@ A realidade aumentada é uma tecnologia que combina elementos virtuais com o amb
 ## Front end
 - HTML / CSS / JS /
 
-# Autor
+# Autores
 Elmo Araujo Filho e José Lucas Bispo Dos Santos
