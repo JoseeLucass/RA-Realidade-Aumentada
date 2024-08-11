@@ -2,7 +2,7 @@
   
 ## Descrição 
 O projeto **RA-Realidade-Aumentada** é uma iniciativa inovadora que utiliza tecnologia de realidade aumentada para enriquecer a experiência dos visitantes em pontos turísticos e históricos. Usando A-Frame, este projeto visa combinar elementos virtuais com o ambiente real, proporcionando uma experiência imersiva e interativa.
-
+ 
 ## Marcadores
 Você pode baixar os marcadores para o projeto [neste link](https://mega.nz/folder/8TtlmR5Y#EIh4p5lbGxSa5_mnfsDIdA).
 
