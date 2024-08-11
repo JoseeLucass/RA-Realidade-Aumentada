@@ -10,10 +10,10 @@ Você pode baixar os marcadores para o projeto [neste link](https://mega.nz/fold
 O layout da web está projetado para facilitar a integração da realidade aumentada com uma interface intuitiva.
 
 ## Tecnologias Utilizadas
-### Back end
+### Back-end
 - **A-Frame**: Framework para criar experiências de realidade aumentada e virtual.
 
-### Front end
+### Front-end
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização da página.
 - **JavaScript**: Funcionalidades e interatividade.
