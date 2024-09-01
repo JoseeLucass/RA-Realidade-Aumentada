@@ -46,7 +46,5 @@ A matriz, que aparece na imagem abaixo é um padrão quadrado com uma série de 
 ## Autores
 O projeto foi desenvolvido por:
 
-- [Elmo Araujo Filho](https://github.com/elmoaraujo)
-- [José Lucas Bispo Dos Santos](https://github.com/JoseeLucass)
-
-
+- **``Elmo Araujo Filho``** 
+- **``José Lucas Bispo dos Santos``**  
